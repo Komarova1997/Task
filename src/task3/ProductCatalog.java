@@ -6,6 +6,7 @@ import java.util.List;
 public class ProductCatalog {
     public List<Product> catalog = new ArrayList<>();
 
+
     public List<Product> getAllProducts(){
         return catalog;
     }

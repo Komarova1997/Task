@@ -1,6 +1,7 @@
 package task3;
 
 public class Main {
+
     public static void main(String[] args){
         Product name1 = new Product(1, "Bread", 100, 354);
         Product name2 = new Product(2, "Milk", 70 , 77);
